@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "name",
+      "setup": "",
+      "run": "dotnet run",
+      "input": "",
+      "output": "HemoryPhifer",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
